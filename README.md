@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KoenigLinus
 - 👀 I’m interested in Filming making, making music and programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, because I can nothing else
+- 💞️ I’m looking to collaborate on TheSCraft
 - 📫 How to reach me ...
 
 <!---
