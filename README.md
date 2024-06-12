@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @KoenigLinus
 
-I'm interested in **minimal** bauhaus **UI/UX Design** and **photograhy**
+I'm interested optimizing UX and photograhy
 
 I know how to write websites and code with java.
 
