@@ -1,13 +1,8 @@
 # 👋 Hi, I’m @KoenigLinus
 
-I'm interested optimizing UX and photograhy
+I'm interested optimizing UX.
 
-I know how to write websites and code with java.
-
-I am a happy nvim user, using the syntax of Obsidians Wikilinks.
-
-📫 How to reach me?... you cant reach me, cauze i'm in the underground and hiding from the government.
-I started because they are stealing our socks, you know... with their so called "washing mashines"...
+I am a happy nvim user, using mainly `.tex` and `.md`.
 
 <!---
 KoenigLinus/KoenigLinus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
